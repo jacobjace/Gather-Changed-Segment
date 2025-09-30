@@ -14,7 +14,7 @@ necessary imports:
 - pip install scikit-image
 - pip install numpy
 
-check example file for how to run adaptive detection or run this after downloading the files:
+## check example file for how to run adaptive detection or run this after downloading the files:
         if __name__ == "__main__":
             image1_path = 'webpage_screenshot.png'
             image2_path = 'webpage_screenshot1.png'
