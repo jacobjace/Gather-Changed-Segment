@@ -26,14 +26,14 @@ necessary imports:
 
 # ⚙️ Example Usage between images:
 
-![webpage_screenshot0](./webpage_screenshot.png)
-![webpage_screenshot1](./webpage_screenshot1.png)
-![resulting_changed](./asdjiaid.png)
+![webpage_screenshot0](./testing-images/webpage_screenshot.png)
+![webpage_screenshot1](./testing-images/webpage_screenshot1.png)
+![resulting_changed](./testing-images/asdjiaid.png)
 
-![before](./images-testing/before.png)
-![after](./images-testing/after.png)
-![result_cropped](./images-testing/changed.png)
-![result_heatmap](./images-testing/heat_map.png)
+![before](./testing-images/before.png)
+![after](./testing-images/after.png)
+![result_cropped](./testing-images/changed.png)
+![result_heatmap](./testing-images/heat_map.png)
 
 # Free use!
 
