@@ -8,13 +8,13 @@ Given 2 images returns the bounding box (x,y,w,h), cropped image, and heat map o
 
 # 🚀 Usage:
 
-necessary imports:
+Necessary imports:
 
 - pip install opencv-python
 - pip install scikit-image
 - pip install numpy
 
-## check example file for how to run adaptive detection or run this after downloading the files (assuming exampe images were also downloaded) :
+## Check example file for how to run adaptive detection or run this after downloading the files (assuming exampe images were also downloaded) :
         if __name__ == "__main__":
             image1_path = 'webpage_screenshot.png'
             image2_path = 'webpage_screenshot1.png'
