@@ -2,8 +2,8 @@ from detect_changed_segment import detect_popup_adaptive
 import cv2
 
 if __name__ == "__main__":
-    image1_path = '/Users/jacobmccaughrin/github_get_changed_segement/Screenshot 2025-09-30 at 11.19.08 AM 1.png'
-    image2_path = '/Users/jacobmccaughrin/github_get_changed_segement/Screenshot 2025-09-30 at 11.19.18 AM.png'
+    image1_path = '/testing-images/webpage_screenshot.png'
+    image2_path = '/testing-images/webpage_screenshot1.png'
 
     image1 = cv2.imread(image1_path)
     image2 = cv2.imread(image2_path)
